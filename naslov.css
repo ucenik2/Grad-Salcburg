@@ -1,0 +1,31 @@
+body{
+background-image: url('salcburg-2.jpg');
+background-repeat:repeat;
+background-size:auto;
+
+}
+h1{font-family:"Comic sans MS";
+ color:#DB7093;
+ text-align:center;
+font-size:30px;
+}
+nav{
+background-color:#D8BFD8;
+height:100px;
+}
+ul{list-style-type:none;
+display:flex;
+margin:2px;
+padding:30px;
+}
+ul li{float:left;
+height:45px;
+}
+ul li a{background-color:#DB7093;
+border:5px solid gray;
+
+color:white;
+padding:12px 25px;
+text-decoration:none;
+}
+a:hover{background-color:#C0C0C0}

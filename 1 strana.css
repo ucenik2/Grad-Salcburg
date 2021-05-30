@@ -1,0 +1,36 @@
+body{background-color:#D8BFD8;
+}
+h1{font-family:"Comic sans MS";
+ color:white;
+ text-align:center;
+}
+h5{font-family:sens-serif;
+color:white;
+font-size:18pt;
+
+ }
+.pasus{font-family:sens-serif;
+color:white;
+font-size:18pt;
+
+ }
+nav{
+background-color:#D8BFD8;
+height:100px;
+}
+ul{list-style-type:none;
+display:flex;
+margin:2px;
+padding:30px;
+}
+ul li{float:left;
+height:45px;
+}
+ul li a{background-color:#DB7093;
+border:5px solid gray;
+
+color:white;
+padding:12px 25px;
+text-decoration:none;
+}
+a:hover{background-color:#C0C0C0}
